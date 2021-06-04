@@ -3,6 +3,7 @@ const fs = require('fs')
 
 var doc = new pdf()
 
+
 doc.text(20, 20, "This is the first page text");
 
 doc.text(20, 40, "This is more text in the pdf on the first page");

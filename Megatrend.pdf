@@ -6,10 +6,11 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 155>>
+<</Length 187>>
 stream
 0.57 w
 BT /F1 16.00 Tf ET
+BT 56.69 742.68 Td (Line) Tj ET
 BT 56.69 785.20 Td (This is the first page text) Tj ET
 BT 56.69 728.50 Td (This is more text in the pdf on the first page) Tj ET
 
@@ -42,11 +43,7 @@ endobj
 6 0 obj
 <<
 /Producer (pdf.js 20090504)
-/Title (pdf file)
-/Subject (Maths)
-/Keywords (Maths)
-/Creator (John)
-/CreationDate (D:20210602181551)
+/CreationDate (D:20210604152815)
 >>
 endobj
 7 0 obj
@@ -60,13 +57,13 @@ endobj
 xref
 0 8
 0000000000 65535 f 
-0000000291 00000 n 
-0000000474 00000 n 
+0000000323 00000 n 
+0000000506 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000000378 00000 n 
-0000000578 00000 n 
-0000000729 00000 n 
+0000000410 00000 n 
+0000000610 00000 n 
+0000000692 00000 n 
 trailer
 <<
 /Size 8
@@ -74,5 +71,5 @@ trailer
 /Info 6 0 R
 >>
 startxref
-832
+795
 %%EOF
