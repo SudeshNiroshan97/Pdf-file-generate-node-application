@@ -1,16 +1,16 @@
 {
-  "name": "invoice-generator",
+  "name": "pdf-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mtnode",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "pdf": "^0.1.0"
+    "jspdf-invoice-template": "^1.3.1",
+    "pdfkit": "^0.12.1"
   }
 }
